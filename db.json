@@ -1,0 +1,230 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Nutuk",
+      "author": "Mustafa Kemal Atatürk",
+      "description": "Ey Türk gençliği! Birinci görevin, Türk bagimsizligini, Türk Cumhuriyeti'ni sonsuza kadar korumak ve savunmaktir.",
+      "year": 1881,
+      "image": "/books/nutuk.jpg",
+      "page": 345
+    },
+
+    {
+      "id": 2,
+      "title": "Oath and Honor",
+      "author": "Liz Cheney",
+      "description": "January 6th continues to be a day worthy of discussion and investigation, and here we have Liz Cheney's account of the ordeal. As one of the few Republicans to speak out against the uprising, this is a fascinating political narrative shedding new light on that day.",
+      "year": 2023,
+      "image": "/books/book1.webp",
+      "page": 356
+    },
+    {
+      "id": 3,
+      "title": "The Mysterious Case of Rudolf Diesel",
+      "author": "Douglas Brunt",
+      "description": "The hidden history of one of the world's greatest inventors, a man who disrupted the status quo and then disappeared into thin air on the eve of World War I—this book answers the hundred-year-old mystery of what really became of Rudolf Diesel.",
+      "year": 2020,
+      "image": "/books/book2.webp",
+      "page": 158
+    },
+    {
+      "id": 4,
+      "title": "The Best Minds",
+      "author": "Jonathan Rosen",
+      "description": "When the Rosens moved to New Rochelle in 1973, Jonathan Rosen and Michael Laudor became inseparable. Both children of college professors, the boys were best friends and keen competitors, and, when they both got into Yale University, seemed set to join the American meritocratic elite.",
+      "year": 2020,
+      "image": "/books/book3.webp",
+      "page": 456
+    },
+    {
+      "id": 5,
+      "title": "Inheritance",
+      "author": "Nora Roberts",
+      "description": "The prolific Nora Roberts is back with a new romantasy trilogy that builds real relationships on the page, steeped in suspense. This book is an escape to a magical world that will captivate readers, whether they've read Roberts before or not. ",
+      "year": 2023,
+      "image": "/books/book4.webp",
+      "page": 367
+    },
+    {
+      "id": 6,
+      "name": "Snowfall in the City",
+      "author": "Susan Wiggs",
+      "description": "Elaine St. James has it all—a thriving career as an elite Manhattan publicist, A-list best friends and a gorgeous, high-profile boyfriend her parents adore. But when Byron breaks up with her on Christmas Eve, Elaine is faced with the prospect of spending the holidays alone…until the man she loved long ago reappears, much like a ghost from Christmas past.",
+      "year": 2023,
+      "image": "/books/book5.webp",
+      "page": 654
+    },
+    {
+      "id": 7,
+      "name": "Black AF History",
+      "author": "Michael Harriot",
+      "descriptor": "Deep dive research, unsparing and entertaining, told with a piercing humor and direct delivery, Michael Harriot, author and social critic, writer for The Root and The Grio and host of the Drapetomaniax: Unshackled History podcast, is here to tell you what is missing from our American 'history', books. ",
+      "year": 2023,
+      "image": "/books/book7.webp",
+      "page": 234
+    },
+    {
+      "id": 8,
+      "name": "The Wager",
+      "author": "David Grann",
+      "description": "This seamless slam-dunk of epic history-telling from the author of the bestselling Killers of the Flower Moon is an eighteenth-century puzzle of high seas intrigue, a fateful shipwreck, mutiny, and a real-life 'Lord of the Flies' descent into mayhem, culminating in a gripping courtroom battle where opposing truths hang in the balance. Rousing, engrossing, and such a ride!",
+      "syear": 2023,
+      "image": "/books/book6.webp",
+      "page": 321
+    },
+    {
+      "id": 9,
+      "name": "The Match",
+      "author": "Harlan Coben",
+      "description": "After months away, Wilde has returned to the Ramapo Mountains in the wake of a failed bid at domesticity that confirms what he's known all along: He belongs on his own, free from the comforts and constraints of modern life.",
+      "year": 2023,
+      "image": "/books/book8.webp",
+      "page": 134
+    },
+    {
+      "id": 10,
+      "name": "The Secret ",
+      "author": "Lee Child, Andrew Child",
+      "description": "The Jack Reacher series rages on with an interagency investigation headed by Reacher himself. Citizens are dying all over the place and there's one man who can stop it.",
+      "year": 2023,
+      "image": "/books/book9.webp",
+      "page": 45
+    },
+    {
+      "id": 11,
+      "name": "Beach Wedding",
+      "author": "Michael Ledwidge",
+      "description": "Michael Ledwidge writing solo is even better than Michael Ledwidge and James Patterson. Beach Wedding is his best yet. Incredible wealth, beach houses, murder, dysfunctional families—how can you beat all that?",
+      "year": 2023,
+      "image": "/books/book10.webp",
+      "page": 234
+    },
+    {
+      "id": 12,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J. K. Rowling",
+      "description": "This gorgeous new edition of Harry Potter and the Sorcerer's Stone is filled with enchanting illustrations from MinaLima, the design duo behind the visual style of the Harry Potter films. Sure to elevate any bookshelf, this edition is an absolute must-have for every Harry Potter fan young and old.",
+      "year": 2023,
+      "image": "/books/book.jpg",
+      "page": 235
+    },
+    {
+      "id": 13,
+      "name": "Spy Camp",
+      "author": "Stuart Gibbs",
+      "description": "In the second book in the New York Times bestselling Spy School series, top-secret training continues into summer for aspiring spy Ben Ripley—and so does the danger.",
+      "year": 2023,
+      "image": "/books/book12.webp",
+      "page": 67
+    },
+    {
+      "id": 14,
+      "name": "Charlotte's Web",
+      "author": "E. B. White,",
+      "description": "In the second book in the New York Times bestselling Spy School series, top-secret training continues into summer for aspiring spy Ben Ripley—and so does the danger.",
+      "year": 2023,
+      "image": "/books/book13.webp",
+      "page": 98
+    },
+    {
+      "id": 15,
+      "name": "How to Know a Person",
+      "author": "David Brooks",
+      "description": "In the second book in the New York Times bestselling Spy School series, top-secret training continues into summer for aspiring spy Ben Ripley—and so does the danger.",
+      "year": 2023,
+      "image": "/books/book14.webp",
+      "page": "457"
+    },
+    {
+      "id": 16,
+      "name": "Mastery",
+      "author": "Robert Greene",
+      "description": "From the master of understanding and attaining power comes a study of mastery and how to become one. If you want to excel in your field, look at others who have done so before you. Mastery has all that and more.",
+      "year": 2023,
+      "image": "/books/book15.webp",
+      "page": 568
+    },
+    {
+      "id": 17,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "/books/17.jpg",
+      "year": 1866,
+      "page": 688,
+      "description": "Prince Myshkin, the idiot, is an almost comically innocent Christ figure in a land of sinners, one whose faith in beauty contrasts sharply with that of his society's."
+    },
+    {
+      "id": 18,
+      "title": "Tales of Horror",
+      "author": "H.P. Lovecraft",
+      "image": "/books/18.jpg",
+      "year": 1927,
+      "page": 350,
+      "description": "The stories of H. P. Lovecraft have been a source of fascination for readers since they were published in the early twentieth century, and legions of fans continue to reinvent his dark and fantastical world to this day. "
+    },
+    {
+      "id": 19,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "/books/19.jpg",
+      "year": 1949,
+      "page": 328,
+      "description": "Nineteen A Novel , often published as 1984 , is a dystopian social science fiction novel by English novelist George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society."
+    },
+    {
+      "id": 20,
+      "title": "Classic Stories",
+      "author": "Edgar Allan Poe",
+      "image": "/books/20.jpeg",
+      "year": 1849,
+      "page": 150,
+      "description": "Edgar Allan Poe was a master of the tale of psychological horror and the author of what is considered the first modern detective story. This anthology gathers more than 20 of Poe’s groundbreaking tales of the macabre, among them “The Tell-Tale Heart,” “The Masque of the Red Death,” and “The Fall of the House of Usher.” It also includes his trilogy of stories featuring detective"
+    },
+    {
+      "id": 21,
+      "title": "Drakula",
+      "author": "Bram Stoker",
+      "image": "/books/21.jpg",
+      "year": 1897,
+      "page": 280,
+      "description": "During a business visit to Count Dracula's castle in Transylvania, a young English solicitor finds himself at the center of a series of horrifying incidents. Jonathan Harker is attacked by three phantom women, observes the Count's transformation from human to bat form, and discovers puncture wounds on his own neck that seem to have been made by teeth."
+    },
+    {
+      "id": 22,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "image": "/books/22.jpeg",
+      "year": 1961,
+      "page": 453,
+      "description": "The first time Yossarian saw the chaplain he fell madly in love with him.Yossarian was in the hospital with a pain in his liver that fell just short of being jaundice. The doctors were puzzled by the fact that it wasn't quite jaundice. If it became jaundice they could treat it. If it didn't become jaundice and went away they could discharge him. But this just being short of jaundice all the time confused them."
+    },
+    {
+      "id": 23,
+      "title": "War and Peace",
+      "author": "Lev Tolstoy",
+      "image": "/books/23.jpeg",
+      "year": 1899,
+      "page": 2073,
+      "description": "The most famous and perhaps greatest novel of all time, Tolstoy's 'War and Peace' tells the story of five families struggling for survival during Napoleon's invasion of Russia in 1812."
+    },
+    {
+      "id": 24,
+      "title": "Kõdulehed",
+      "author": "Gabriel Garcia Marquez",
+      "image": "/books/24.jpeg",
+      "year": 1981,
+      "page": 128,
+      "description": "1955. aastal ilmunud lühiromaan „Kõdulehed” on maagilise realismi meistri Gabriel García Márqueze esimene oluline teos. Huvitav fakt on ka see, et väljamõeldud linn Macondo, mis ei ole mitte ainult Márqueze „Saja aasta üksilduse”, vaid ka tema hilisemate teoste taustaks, ilmub selles raamatus lugeja ette esimest korda."
+    },
+    {
+      "id": 25,
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "image": "/books/25.jpeg",
+      "year": 1934,
+      "page": 288,
+      "description": "‘The Murderer is with us – on the train now…’ It’s just after midnight, and the famous Orient Express is stopped in its tracks by a snowdrift, isolated by the storm. A passenger lies dead, stabbed a dozen times, his door locked from the inside. The world’s greatest detective, Hercule Poirot, must identify the prime suspects from among the small but disparate group of remaining passengers– before the murderer decides to strike again."
+    }
+  ]
+}
